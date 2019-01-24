@@ -3,8 +3,8 @@ function setup (){
     background(255, 155, 246);
     img = loadImage('pinkdonut.png');
     img2 = loadImage('homersimpson.png');
-    img3 = loadImage('pacifier.png')
-    img4 = loadImage('maggiesimpson.png')
+    img3 = loadImage('pacifier.png');
+    img4 = loadImage('maggiesimpson.png');
 }
 
 
